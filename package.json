@@ -1,0 +1,18 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nexrender/api": "^1.23.0",
+    "@nexrender/core": "^1.23.0",
+    "@nexrender/types": "^1.23.0",
+    "minimist": "^1.2.5"
+  }
+}
